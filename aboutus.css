@@ -635,6 +635,14 @@ nav .logo-perusahaan {
         right: 20px;
     }
 
+    .nav-li {
+        z-index: 100;
+    }    
+    
+    .responsive-bar {
+        z-index: 200;
+    }
+
     header .dropdown {
         height: 0px;
         width: 0px;
@@ -1158,4 +1166,5 @@ nav .logo-perusahaan {
         bottom: 48%;
     }
 }
+
 /* responsive end */
