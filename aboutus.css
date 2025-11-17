@@ -635,12 +635,12 @@ nav .logo-perusahaan {
         right: 20px;
     }
 
-    .nav-li {
-        z-index: 0;
-    }    
-    
     .responsive-bar {
         z-index: 200;
+    }
+
+    .nav-li {
+        z-index: 0;
     }
 
     header .dropdown {
@@ -1168,4 +1168,5 @@ nav .logo-perusahaan {
 }
 
 /* responsive end */
+
 
