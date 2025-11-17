@@ -636,7 +636,7 @@ nav .logo-perusahaan {
     }
 
     .nav-li {
-        z-index: 100;
+        z-index: 0;
     }    
     
     .responsive-bar {
@@ -1168,3 +1168,4 @@ nav .logo-perusahaan {
 }
 
 /* responsive end */
+
